@@ -10,6 +10,7 @@ const NumButton = styled.p`
   border-style: solid;
   height: 72px;
   width: 72px;
+  font-weight: 700;
 `;
 
 export default NumberButton;
